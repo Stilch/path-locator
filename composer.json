@@ -1,0 +1,25 @@
+{
+  "name": "stilch/path-locator",
+  "description": "Generates an absolute path to a file or directory",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": ["path", "file", "directory", "locator"],
+  "authors": [
+    {
+      "name": "Stilch",
+      "email": "stilch@mail.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "PathLocator\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  }
+}
