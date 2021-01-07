@@ -1,7 +1,6 @@
 {
   "name": "stilch/path-locator",
   "description": "Generates an absolute path to a file or directory",
-  "minimum-stability": "stable",
   "license": "MIT",
   "version": "1.0.0",
   "keywords": ["path", "file", "directory", "locator"],
